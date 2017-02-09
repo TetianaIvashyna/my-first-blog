@@ -2,6 +2,7 @@
     background-color: #ff9400;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
+    margin-bottom: 0;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
@@ -12,6 +13,10 @@
 
 .content {
     margin-left: 40px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Lobster', cursive;
 }
 
 .date {
@@ -37,10 +42,17 @@
     margin-bottom: 70px;
 }
 
-.post h1 a, .post h1 a:visited {
+.post h2 a, .post h2 a:visited {
     color: #000000;
 }
 
-.page-header h1 a, .page-header h1 a:visited {
-    font-family: 'Lobster', cursive;
+.citation a, .citation a:visited {
+    color: #730000;
+}
+
+.citation {
+    background-color: #FCE8CA;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+    margin-bottom: 70px;
 }
