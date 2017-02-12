@@ -47,11 +47,11 @@ h1, h2, h3, h4 {
 }
 
 .citation a, .citation a:visited {
-    color: #730000;
+    color: #ff9400;
 }
 
 .citation {
-    background-color: #FCE8CA;
+    background-color: #ffffff;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
     margin-bottom: 70px;
